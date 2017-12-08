@@ -1,0 +1,17 @@
+{
+  "name": "babel-example-2017",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "babel": "babel input.js"
+  },
+  "keywords": [],
+  "author": "kamijin_fanta <kamijin@live.jp>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.0.0-beta.34",
+    "@babel/core": "^7.0.0-beta.34"
+  }
+}
